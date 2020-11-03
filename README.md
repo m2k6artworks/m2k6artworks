@@ -14,7 +14,7 @@ Front End Web Dev at <a href="#" target="_blank"><b>Lion Tech Informatics</b></a
 
 **🔭 Currently developing :**
 
-Start up <a href="http://nikerja.com" target="_blank"><b>Nikerja</b></a>
+Start up with my team ( <a href="http://nikerja.com" target="_blank"><b>Nikerja</b></a> )
 <!--
 **🌱 Currently Learning :**
 -->
