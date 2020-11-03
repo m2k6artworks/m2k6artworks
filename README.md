@@ -12,11 +12,13 @@ Fascinated about Science Tech. Occupy Mars! :rocket:
 
 Front End Web Dev at <a href="#" target="_blank"><b>Lion Tech Informatics</b></a>
 
-**💼 Currently developing :**
+**🔭 Currently developing :**
 
 Start up <a href="nikerja.com" target="_blank"><b>Nikerja</b></a>
+<--
+**🌱 Currently Learning :**
+-->
 
-**💼 Currently Learning :**
 
 
 <div align="center">
@@ -33,9 +35,10 @@ Start up <a href="nikerja.com" target="_blank"><b>Nikerja</b></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m2k6artworks&theme=radical&title_color=8E2DE2&text_color=fff)
 
+<--
 ![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=m2k6artworks&repo=sprintnote&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
 ![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=m2k6artworks&repo=covid-chatbot&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
-
+-->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=m2k6artworks.visitor-badge)
 
 </div>  
