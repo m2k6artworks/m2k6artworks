@@ -19,7 +19,7 @@ Start up with my team ( <a href="http://nikerja.com" target="_blank"><b>Nikerja<
 **🌱 Currently Learning :**
 -->
   
-**My Github Status :**<br>
+**My Github Stats :**<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=m2k6artworks&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
