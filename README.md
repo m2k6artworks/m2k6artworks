@@ -10,7 +10,7 @@ Fascinated about Science Tech. Occupy Mars! :rocket:
 
 **💼 Currently working as :**
 
-Front End Web Dev at <a href="#" target="_blank"><b>Lion Tech Informatics</b></a>
+Front End Web Dev at <a href="https://github.com/Lion-Of-Informatics" target="_blank"><b>Lion Tech Informatics</b></a>
 
 **🔭 Currently developing :**
 
