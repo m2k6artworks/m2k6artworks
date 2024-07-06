@@ -2,7 +2,7 @@
 
 
 <p align="center">
-I am a Web Developer from Indonesia. Recently I've started building startup with my friends.
+I am a Web Developer from Indonesia
 </p>
 <p align="center">
 Fascinated about Science Tech. Occupy Mars! :rocket:
